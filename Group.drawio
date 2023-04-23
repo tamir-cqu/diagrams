@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-23T07:45:53.415Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="XnTxB9NUcFhSQKcTZcwa" version="21.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-23T07:50:15.882Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="l8Kd4Bu89VlcjZzHl6iP" version="21.2.1" type="github">
   <diagram name="Page-1" id="kUGmlVv1KhsbOFP3ll0R">
-    <mxGraphModel dx="4365" dy="3608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="4746" dy="3809" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -260,11 +260,11 @@
         <mxCell id="bPXmLajMAszRdR5mvz4N-9" value="&#xa;&#xa;&#xa;&lt;p class=&quot;MsoNormal&quot;&gt;192.168.1.0/24&lt;/p&gt;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-70" y="-1030" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="bPXmLajMAszRdR5mvz4N-10" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;font-size: 24px;&quot;&gt;192.168.1.0/24&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="-730" y="-1553" width="60" height="30" as="geometry" />
+        <mxCell id="bPXmLajMAszRdR5mvz4N-10" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;font-size: 24px;&quot;&gt;Subnet1 - 192.168.1.0/24&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="-730" y="-1553" width="340" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="bPXmLajMAszRdR5mvz4N-13" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;font-size: 24px;&quot;&gt;192.168.2.0/24&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="630" y="-725" width="60" height="30" as="geometry" />
+        <mxCell id="bPXmLajMAszRdR5mvz4N-13" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;font-size: 24px;&quot;&gt;Subnet2 - 192.168.2.0/24&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="460" y="-725" width="330" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

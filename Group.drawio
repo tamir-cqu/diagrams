@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-23T08:19:02.717Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="phojHRACI2JeyhNEBAn-" version="21.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-23T08:21:51.038Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="27jFgvghAcaixDQuWbII" version="21.2.1" type="github">
   <diagram name="Page-1" id="kUGmlVv1KhsbOFP3ll0R">
-    <mxGraphModel dx="4746" dy="3809" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="4746" dy="3660" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -197,7 +197,7 @@
         <mxCell id="BCT4acggiIJb0DLnrBcZ-111" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.wireless_connection;fontSize=19;fontStyle=1" parent="BCT4acggiIJb0DLnrBcZ-115" vertex="1">
           <mxGeometry x="121.91999999999996" y="321.5" width="42" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="BCT4acggiIJb0DLnrBcZ-119" value="Router" style="image;html=1;image=img/lib/clip_art/networking/Router_128x128.png;fontSize=19;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="BCT4acggiIJb0DLnrBcZ-119" value="Router&lt;br&gt;192.168.0.1" style="image;html=1;image=img/lib/clip_art/networking/Router_128x128.png;fontSize=19;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="95.88000000000001" y="-965" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="bPXmLajMAszRdR5mvz4N-10" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;font-size: 24px;&quot;&gt;Subnet1 - 192.168.1.0/24&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;fontStyle=1" vertex="1" parent="1">

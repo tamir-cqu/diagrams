@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-23T08:39:00.898Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="7z3YOmy5THx0NnXzsu7a" version="21.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-23T08:51:56.778Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="8VsG19hkb2t1wKbxWymp" version="21.2.1" type="github">
   <diagram name="Page-1" id="kUGmlVv1KhsbOFP3ll0R">
     <mxGraphModel dx="5964" dy="4244" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
@@ -101,20 +101,18 @@
         <mxCell id="BCT4acggiIJb0DLnrBcZ-21" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;PoE Switch&lt;br style=&quot;font-size: 19px;&quot;&gt;192.168.1.101 &lt;br style=&quot;font-size: 19px;&quot;&gt;&lt;/font&gt;" style="html=1;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;shadow=0;dashed=0;shape=mxgraph.rack.hpe_aruba.switches.jl659a_aruba_6300m_48_port_hpe_smart_rate_1_2_5_5gbe_class_6_poe_and_4_port_switch;fontSize=19;fontStyle=1;labelBackgroundColor=default;" parent="1" vertex="1">
           <mxGeometry x="-670" y="-717.5" width="142" height="15" as="geometry" />
         </mxCell>
-        <mxCell id="BCT4acggiIJb0DLnrBcZ-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=19;fontStyle=1" parent="1" source="BCT4acggiIJb0DLnrBcZ-73" target="BCT4acggiIJb0DLnrBcZ-75" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="BCT4acggiIJb0DLnrBcZ-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=19;fontStyle=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="BCT4acggiIJb0DLnrBcZ-73" target="BCT4acggiIJb0DLnrBcZ-76" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-250" y="-850" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="BCT4acggiIJb0DLnrBcZ-73" value="DVR (Digital Video Recorder)" style="image;html=1;image=img/lib/clip_art/networking/Router_128x128.png;fontSize=19;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="-330" y="-760" width="160" height="100" as="geometry" />
+        <mxCell id="BCT4acggiIJb0DLnrBcZ-73" value="DVR (Digital Video Recorder)&lt;br&gt;192.168.1.102" style="image;html=1;image=img/lib/clip_art/networking/Router_128x128.png;fontSize=19;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="-330" y="-975" width="160" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="BCT4acggiIJb0DLnrBcZ-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=19;fontStyle=1" parent="1" source="BCT4acggiIJb0DLnrBcZ-75" target="BCT4acggiIJb0DLnrBcZ-76" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="BCT4acggiIJb0DLnrBcZ-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=19;fontStyle=1" parent="1" source="BCT4acggiIJb0DLnrBcZ-75" target="BCT4acggiIJb0DLnrBcZ-114" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="BCT4acggiIJb0DLnrBcZ-75" value="Storage Server&lt;br style=&quot;font-size: 19px;&quot;&gt;192.168.1.102" style="image;html=1;image=img/lib/clip_art/computers/Server_Tower_128x128.png;fontSize=19;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="-325" y="-1000" width="150" height="150" as="geometry" />
+        <mxCell id="BCT4acggiIJb0DLnrBcZ-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=19;fontStyle=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="BCT4acggiIJb0DLnrBcZ-73" target="BCT4acggiIJb0DLnrBcZ-114" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-175" y="-925" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="BCT4acggiIJb0DLnrBcZ-76" value="Backup Server&lt;br style=&quot;font-size: 19px;&quot;&gt;192.168.1.103" style="image;html=1;image=img/lib/clip_art/computers/Server_Tower_128x128.png;fontSize=19;fontStyle=1;labelBackgroundColor=default;" parent="1" vertex="1">
           <mxGeometry x="-325" y="-1230" width="150" height="150" as="geometry" />

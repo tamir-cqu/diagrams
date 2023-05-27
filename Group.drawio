@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-27T13:41:16.585Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="0nK16WBxb7EpM1pfjoph" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-27T13:41:29.331Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="j6s2OeQVCozkBUDZg95_" version="21.3.2" type="github">
   <diagram name="Page-1" id="kUGmlVv1KhsbOFP3ll0R">
     <mxGraphModel dx="4069" dy="3451" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
@@ -106,14 +106,6 @@
             <mxPoint x="-250" y="-850" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9MDrv4y2FT8FMdRI9ntF-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="BCT4acggiIJb0DLnrBcZ-73" target="9MDrv4y2FT8FMdRI9ntF-7">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="-250" y="-1070" />
-              <mxPoint x="-90" y="-1070" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="BCT4acggiIJb0DLnrBcZ-73" value="DVR (Digital Video Recorder)&lt;br&gt;192.168.1.102" style="image;html=1;image=img/lib/clip_art/networking/Router_128x128.png;fontSize=19;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-330" y="-975" width="160" height="100" as="geometry" />
         </mxCell>
@@ -123,6 +115,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="9MDrv4y2FT8FMdRI9ntF-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9MDrv4y2FT8FMdRI9ntF-9" target="9MDrv4y2FT8FMdRI9ntF-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9MDrv4y2FT8FMdRI9ntF-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BCT4acggiIJb0DLnrBcZ-76" target="9MDrv4y2FT8FMdRI9ntF-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BCT4acggiIJb0DLnrBcZ-76" value="Backup Server&lt;br style=&quot;font-size: 19px;&quot;&gt;192.168.1.103" style="image;html=1;image=img/lib/clip_art/computers/Server_Tower_128x128.png;fontSize=19;fontStyle=1;labelBackgroundColor=default;" parent="1" vertex="1">
@@ -288,7 +283,7 @@
           <mxGeometry x="103.76519418914913" y="39.52019607843133" width="73.20261437908496" height="99.2078431372549" as="geometry" />
         </mxCell>
         <mxCell id="9MDrv4y2FT8FMdRI9ntF-7" value="Backup Server&lt;br style=&quot;font-size: 19px;&quot;&gt;192.168.1.104" style="image;html=1;image=img/lib/clip_art/computers/Server_Tower_128x128.png;fontSize=19;fontStyle=1;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="-165" y="-1360" width="150" height="150" as="geometry" />
+          <mxGeometry x="-120" y="-1360" width="150" height="150" as="geometry" />
         </mxCell>
         <mxCell id="9MDrv4y2FT8FMdRI9ntF-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BCT4acggiIJb0DLnrBcZ-76" target="9MDrv4y2FT8FMdRI9ntF-9">
           <mxGeometry relative="1" as="geometry">

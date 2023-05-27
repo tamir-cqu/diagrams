@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-27T13:14:34.090Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="Brh0z8KbM4EHuquyQi0Y" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-27T13:36:06.875Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="wgnKEMlSKOrEsYcfQZpg" version="21.3.2" type="github">
   <diagram name="Page-1" id="kUGmlVv1KhsbOFP3ll0R">
-    <mxGraphModel dx="4746" dy="3809" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="2715" dy="2687" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -106,14 +106,6 @@
             <mxPoint x="-250" y="-850" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9MDrv4y2FT8FMdRI9ntF-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="BCT4acggiIJb0DLnrBcZ-73" target="9MDrv4y2FT8FMdRI9ntF-7">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="-250" y="-1070" />
-              <mxPoint x="-90" y="-1070" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="BCT4acggiIJb0DLnrBcZ-73" value="DVR (Digital Video Recorder)&lt;br&gt;192.168.1.102" style="image;html=1;image=img/lib/clip_art/networking/Router_128x128.png;fontSize=19;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-330" y="-975" width="160" height="100" as="geometry" />
         </mxCell>
@@ -122,7 +114,7 @@
             <mxPoint x="-175" y="-925" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9MDrv4y2FT8FMdRI9ntF-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9MDrv4y2FT8FMdRI9ntF-9" target="9MDrv4y2FT8FMdRI9ntF-2">
+        <mxCell id="9MDrv4y2FT8FMdRI9ntF-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BCT4acggiIJb0DLnrBcZ-76" target="9MDrv4y2FT8FMdRI9ntF-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BCT4acggiIJb0DLnrBcZ-76" value="Backup Server&lt;br style=&quot;font-size: 19px;&quot;&gt;192.168.1.103" style="image;html=1;image=img/lib/clip_art/computers/Server_Tower_128x128.png;fontSize=19;fontStyle=1;labelBackgroundColor=default;" parent="1" vertex="1">
@@ -140,7 +132,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BCT4acggiIJb0DLnrBcZ-83" value="Internet" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/internet_cloud.svg;fontSize=19;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="-15" y="-2170" width="301.75" height="190.1" as="geometry" />
+          <mxGeometry x="-15" y="-1800" width="301.75" height="190.1" as="geometry" />
         </mxCell>
         <mxCell id="BCT4acggiIJb0DLnrBcZ-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.015;entryY=0.657;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=19;fontStyle=1" parent="1" source="BCT4acggiIJb0DLnrBcZ-96" target="BCT4acggiIJb0DLnrBcZ-102" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -278,26 +270,8 @@
         <mxCell id="bPXmLajMAszRdR5mvz4N-21" value="IP address range for users: 192.168.2.101 - 192.168.2.254&lt;br style=&quot;font-size: 19px;&quot;&gt;Gateway: 192.168.2.1&lt;br style=&quot;font-size: 19px;&quot;&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=19;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="680" y="-660" width="520" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9MDrv4y2FT8FMdRI9ntF-5" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-390" y="-1990" width="300" height="182.5" as="geometry" />
-        </mxCell>
-        <mxCell id="9MDrv4y2FT8FMdRI9ntF-2" value="&lt;font style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 19px;&quot;&gt;Cloud server&lt;/b&gt;&lt;br&gt;&lt;b&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;182.230.248.76&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;/font&gt;" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/internet_cloud.svg;" vertex="1" parent="9MDrv4y2FT8FMdRI9ntF-5">
-          <mxGeometry width="277.77647058823527" height="175" as="geometry" />
-        </mxCell>
-        <mxCell id="9MDrv4y2FT8FMdRI9ntF-4" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;" vertex="1" parent="9MDrv4y2FT8FMdRI9ntF-5">
-          <mxGeometry x="103.76519418914913" y="39.52019607843133" width="73.20261437908496" height="99.2078431372549" as="geometry" />
-        </mxCell>
         <mxCell id="9MDrv4y2FT8FMdRI9ntF-7" value="Backup Server&lt;br style=&quot;font-size: 19px;&quot;&gt;192.168.1.104" style="image;html=1;image=img/lib/clip_art/computers/Server_Tower_128x128.png;fontSize=19;fontStyle=1;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="-165" y="-1360" width="150" height="150" as="geometry" />
-        </mxCell>
-        <mxCell id="9MDrv4y2FT8FMdRI9ntF-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BCT4acggiIJb0DLnrBcZ-76" target="9MDrv4y2FT8FMdRI9ntF-9">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-251" y="-1360" as="sourcePoint" />
-            <mxPoint x="-251" y="-1695" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="9MDrv4y2FT8FMdRI9ntF-9" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;&lt;b&gt;Two-Factor Authentication&lt;br&gt;&amp;nbsp;(2FA)&lt;/b&gt;&lt;/font&gt;" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.locked;" vertex="1" parent="1">
-          <mxGeometry x="-271.5" y="-1707" width="43" height="57" as="geometry" />
+          <mxGeometry x="-120" y="-1360" width="150" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
